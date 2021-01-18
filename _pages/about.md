@@ -12,3 +12,7 @@ Não, não somos financiados por George Soros. Todos os 12 euros que esta págin
 #### **Gostam do sistema?**
 
 Não, por isso é que também não gostamos do André Ventura.
+
+#### **Porque é que não gostam do André Ventura?**
+
+Nem sabes, alguém compilou uma lista com imensas razões. [Podes vê-las aqui.](https://votarandreventura.github.io/)
