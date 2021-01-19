@@ -57,3 +57,8 @@ defaults:
       path: "assets/images"
     values:
       image: true
+  
+  - scope:
+      path: "assets"
+    values:
+      image: true
