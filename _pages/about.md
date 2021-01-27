@@ -11,7 +11,7 @@ Não, não somos financiados por George Soros. Todos os 0 euros que esta página
 
 #### **Gostam do sistema?**
 
-Não, por isso é que também não gostamos do André Ventura.
+Não, por isso é que também não gostamos do CHEGA. Ou do André Ventura.
 
 #### **Porque é que não gostam do André Ventura?**
 
